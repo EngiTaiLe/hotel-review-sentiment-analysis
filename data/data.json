@@ -1,0 +1,62 @@
+[
+    {
+        "customer_name": "Juanita",
+        "customer_country": "United States",
+        "review_rating": "8.0",
+        "review_title": "Only for one night",
+        "review_content": "I have stayed at the Orleans many times before and have never had a horrible experience. This time was good and we enjoyed ourselves. We were just there for one night and the only thing that frustrated us is we had somewhere to be at 12 noon which was the same time as checkout. We had went downstairs to play a few games before checking out and when we got back upstairs we were locked out of our room. We saw housekeeping and the lady stated our room had been cleaned and she called her manager, I was very confused how you can clean a room that we had not checked out of yet and all of our stuff was still in there. The housekeeping manager came upstairs and did nothing but tell us we must go downstairs. Clock is ticking and we go downstairs to be told we need to wait in this long line which would make us late to our event and late to checkout. Long story short we got it all fixed and was able to get into the room around 11:30am with the event starting at 12noon. Again this was a huge inconvenience and we’re not compensated for time we lost. Other than this no issues whatsoever.",
+        "date_visited": "2024-05-01",
+        "duration": 1,
+        "date_reviewed": "2024-05-27",
+        "trip_type": "Couple",
+        "room_type": "Deluxe King Non-Smoking"
+    },
+    {
+        "customer_name": "Mable",
+        "customer_country": "Canada",
+        "review_rating": "8.8",
+        "review_title": "great pool, fitness center, busy casino, clean and spacious rooms, great location on the strip with ample parking",
+        "review_content": "we enjoyed our stay. rooms were spacious and clean. wifi up to 3 devices per room otherwise 10USD per additional device. fitness center had lots of equipment and machines, staff there were great. location was right on the end of the strip, with ample free parking. outdoor pool was exceptional, with lots of lounge chairs, towels and cabanas waiting for you. only thing was the casino smelled like smoke and cigarettes but that's not extraordinary in vegas. Would stay here again.",
+        "date_visited": "2024-06-01",
+        "duration": 2,
+        "date_reviewed": "2024-06-29",
+        "trip_type": "Family with teens",
+        "room_type": "Deluxe 2 Queen Non-Smoking"
+    },
+    {
+        "customer_name": "Mae",
+        "customer_country": "United States",
+        "review_rating": "7.6",
+        "review_title": "Good location ",
+        "review_content": "We wanted to stay off the strip but still not too far out and reasonable on cost for last minute reservations. I was skeptical at first because of the reviews. The room was clean and spacious. Casino and restaurants are there and no parking fee. For a short stay I would recommend this location. Only thing I don't understand is the resort fees. It's just a pool and we didn't even use it. There's no microwave, no fridge and a safe that's not working. Overall, if you don't need those, it's not that bad. I'd still recommend it if you can go past those and get a good rate.",
+        "date_visited": "2024-05-01",
+        "duration": 2,
+        "date_reviewed": "2024-05-29",
+        "trip_type": "Couple",
+        "room_type": "Deluxe 2 Queen Non-Smoking"
+    },
+    {
+        "customer_name": "Socrates",
+        "customer_country": "Cyprus",
+        "review_rating": "9.2",
+        "review_title": "Lovely & Comfortable stay in the heart of Las Vegas ",
+        "review_content": "Location is great, out of the hustle and bustle of the strip and within minutes to everywhere. Reception staff very friendly, polite and attentive. Facilities out of this world! Housekeeping services very prompt and impeccable. Variety of shows, many of them free. Fine dining at decent prices, including many offers. All in all, a great choice to stay and enjoy Vegas.",
+        "date_visited": "2023-08-01",
+        "duration": 2,
+        "date_reviewed": "2023-09-03",
+        "trip_type": "Couple",
+        "room_type": "Deluxe 2 Queen Non-Smoking"
+    },
+    {
+        "customer_name": "Michael",
+        "customer_country": "United States",
+        "review_rating": "9.6",
+        "review_title": "Large and clean hotel and casino",
+        "review_content": "This hotel is approx one mile to the west of the :as Vegas strip on Tropicana . It features a 21 story T shaped hotel and a large casino. There are multiple food choices available. From a steak house to a food court and several in-between. The rooms are over-sized and contain a couch and full sized comfortable chair. The only thing negative is the fact there was not a coffee maker, which was available in the past. The staff from check-in, to the food servers, slot hosts, cocktail servers, housekeeping, security, casino cage, to check-out were very friendly and professional. The pool area was big, clean, and very well taken care of. I have stayed here and at many other Boyd properties in the past and still feel they give a good bang for the buck!",
+        "date_visited": "2024-09-01",
+        "duration": 3,
+        "date_reviewed": "2024-10-04",
+        "trip_type": "Solo traveler",
+        "room_type": "Strip View King Non-Smoking"
+    }
+]
